@@ -1,0 +1,1 @@
+This repository demonstrates a common error in PHP related to using references in foreach loops. The `bug.php` file shows code that unintentionally modifies the original array elements due to incorrect handling of references.  The `bugSolution.php` offers a corrected version that avoids this issue.
